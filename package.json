@@ -1,0 +1,25 @@
+{
+  "name": "penn-treebank",
+  "version": "0.0.1",
+  "description": "a non-commercial, fair-use subset of the penn-treebank, in JSON",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlp-compromise/penn-treebank.git"
+  },
+  "keywords": [
+    "treebank"
+  ],
+  "author": "spencermountain@gmail.com",
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/nlp-compromise/penn-treebank/issues"
+  },
+  "homepage": "https://github.com/nlp-compromise/penn-treebank#readme",
+  "dependencies": {
+    "shelljs": "^0.8.1"
+  }
+}
