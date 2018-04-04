@@ -1,6 +1,6 @@
 {
   "name": "penn-treebank-sample",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a non-commercial, fair-use subset of the penn-treebank, in JSON",
   "main": "index.js",
   "scripts": {

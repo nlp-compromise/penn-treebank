@@ -9,6 +9,3 @@ sentences = sentences.map((arr) => {
   }
 })
 module.exports = sentences
-
-
-console.log(sentences[896])
