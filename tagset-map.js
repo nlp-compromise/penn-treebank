@@ -1,7 +1,7 @@
 //a (opinionated, reductive) mapping of penn-tagset to the compromise tagset
 module.exports = {
   CC: 'Conjunction',
-  CD: 'Cardinal',
+  CD: 'Value',
   DT: 'Determiner',
   FW: 'Expression',
   IN: 'Preposition',
@@ -17,7 +17,7 @@ module.exports = {
   PRP: 'Pronoun',
   PRP$: 'Pronoun',
   RB: 'Adverb',
-  RBR: 'Comparative',
+  RBR: 'Adverb',
   RBS: 'Superlative',
   TO: 'Conjunction',
   UH: 'Expression',
@@ -30,5 +30,13 @@ module.exports = {
   WDT: 'Determiner',
   WP: 'Pronoun',
   WP$: 'Noun',
-  WRB: 'Adverb'
+  WRB: 'Adverb',
+  LS: 'Value',
+  EX: 'Expression',
+  RP: 'Preposition',
+  PDT: 'Adjective',
+  //these seem like weird encodings for something
+  '-LRB-': 'Noun',
+  '-RRB-': 'Noun',
+  ':': '',
 }

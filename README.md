@@ -30,6 +30,7 @@ sample:
 }
 ```
 
+
 Original statement [in NLTK](http://www.nltk.org/nltk_data/):
 ```
 Copyright (C) 1995 University of Pennsylvania;
